@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ujjwalkryadav" alt="ujjwalkryadav" /></a> </p>
 
-- 🔭 I’m currently Learning [Python](https://github.com/ujjwalkryadav/python_practice.py)
+- 🔭 I’m currently Learning [Python](https://github.com/ujjwalkryadav/Python_Classes)
 
 - 🌱 I’m currently pursuing **BCA with Specialization in AI & ML**
 
