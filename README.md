@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ujjwal Yadav</h1>
-<h3 align="center">I am learning at the moment and exploring new coding challenges. Join me on my journey as I experiment, build projects, and grow my skills every day. If you are a professional, check out my work and help me improve. If you are a fellow student, join me and let’s make the world better together!</h3>
+<h3 align="center">I’m on a journey of learning and creating.
+Every day, I take one more step — experimenting with code, building new projects, and discovering what I can make possible.
+I’m not perfect, but I’m growing with every challenge I face.
+If you’re a pro, your feedback can make me better.
+And if you’re learning like me — let’s grow together and build something amazing. 💻✨!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwalkryadav&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwalkryadav" /> </p>
 
