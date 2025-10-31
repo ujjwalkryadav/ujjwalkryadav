@@ -1,17 +1,14 @@
+![logo](https://github.com/ujjwalkryadav/ujjwalkryadav/blob/main/Untitled%20design%20(1).gif)
 <h1 align="center">Hi 👋, I'm Ujjwal Yadav</h1>
-<h3 align="center">I’m on a journey of learning and creating.
-Every day, I take one more step — experimenting with code, building new projects, and discovering what I can make possible.
-I’m not perfect, but I’m growing with every challenge I face.
-If you’re a pro, your feedback can make me better.
-And if you’re learning like me — let’s grow together and build something amazing. 💻✨!</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwalkryadav&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwalkryadav" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ujjwalkryadav" alt="ujjwalkryadav" /></a> </p>
-
-- 🔭 I’m currently Learning [Python](https://github.com/ujjwalkryadav/Python_Classes)
+<h3 align="left">- 🚏 I’m on a journey of learning and creating.💻✨!</h3>
+<h3 align="left">- 🧑🏻‍🎓 CS Student | Artificial Intelligence & Machine Learning</h3>
+<img align="right" alt="coding" width="400px" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 - 🌱 I’m currently pursuing **BCA with Specialization in AI & ML**
+- 🔭 I’m currently Learning [Python](https://github.com/ujjwalkryadav/Python_Classes)
+- 🧑🏻‍💻 My Projects While Learning Python [Python](https://github.com/ujjwalkryadav/Projects_with_learning)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,3 +24,6 @@ And if you’re learning like me — let’s grow together and build something a
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ujjwalkryadav&show_icons=true&locale=en" alt="ujjwalkryadav" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwalkryadav&" alt="ujjwalkryadav" /></p>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ujjwalkryadav" alt="ujjwalkryadav" /></a> </p>
